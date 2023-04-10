@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private int price = 0;
     private String itog = "";
     private TextView tvItog;
+    //dsdffd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
